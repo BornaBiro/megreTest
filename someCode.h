@@ -1,0 +1,1 @@
+#define INKPLAET2_BOARD
